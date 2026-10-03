@@ -49,7 +49,7 @@ The website contains the following pages:
 
 ## 📂 Project Structure
 
-'''text
+```text
 my-journal/
 │
 ├── index.html
@@ -68,7 +68,7 @@ my-journal/
     ├── article1.jpg
     ├── article2.jpg
     └── article3.jpg
-'''text
+```
 
 ## 🎯 What I Learned
 
